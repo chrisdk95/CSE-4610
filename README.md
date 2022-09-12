@@ -1,5 +1,6 @@
 # CSE-4610
-School Project instructions /n
+School Project instructions
+
 The FIRST part of this project requires that you implement a class that will be used to simulate a disk drive. The disk drive will have numberofblocks many blocks where each block has blocksize many bytes
 
 An explanation of the member functions follows :
